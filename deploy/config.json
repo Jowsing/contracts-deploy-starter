@@ -1,0 +1,8 @@
+{
+	"chainURLs": {
+		"mainnet": "https://bsc-dataseed.binance.org/",
+		"testnet": "https://data-seed-prebsc-1-s1.binance.org:8545/"
+	},
+	"gasLimit" : 9010204,
+    "gasPrice": 40000000050
+}

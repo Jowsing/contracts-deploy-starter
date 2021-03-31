@@ -1,0 +1,9 @@
+/node_modules/
+/.idea/
+/secrets.json
+/scripts/
+/migrations/
+/build/
+/client/
+/test/
+.env
